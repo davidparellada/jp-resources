@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(216, 214, 211);
+  color: rgb(25, 25, 25);
+  margin-left: 50px;
+}
+
+h1 {
+  color: rgb(75, 68, 66);
+}
+
+h3 {
+  color: rgb(82, 75, 72);
+}
+ul {
+  list-style: none;
+}
+
+a {
+  font-weight: 500;
+  color: rgb(72, 87, 200);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover {
+  color: rgb(0, 71, 237);
+}
